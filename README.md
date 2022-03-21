@@ -40,9 +40,10 @@ All times are in Pittsburgh local time (Eastern Standard Time, EST)
 
 ## References
 
-- [Github central](https://github.com/woc-hack)
+- [Github hackathon central](https://github.com/woc-hack)
 - [WoC main page](https://worldofcode.org/)
 - [WoC Tutorial](https://github.com/woc-hack/tutorial/blob/master/README.md)
+- [WoC API](https://bitbucket.org/swsc/lookup/src/master/README.md)
 - [CVE Dataset Notebook](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/CVEJupyter.ipynb)
 - [REST Notebook](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/RESTJupyter.ipynb)
 - [How to do sampling](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/sampling-resource.md)
