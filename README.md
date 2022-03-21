@@ -5,7 +5,6 @@
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-pittsburgh-2022/issues)
 - [CMU EDUROAM tutorial](https://www.cmu.edu/computing/services/endpoint/network-access/wireless/how-to/eduroam.html)
 - [Submitted ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md)
-[//]: # - [Hackathon projects](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/master/projects.md)
 
 ## Hackathon Schedule
 All times are in Pittsburgh local time (Eastern Standard Time, EST)
@@ -23,7 +22,7 @@ All times are in Pittsburgh local time (Eastern Standard Time, EST)
 | | 01:30pm | TCS 358, 310, 432, 410 | Working time | |
 | | 05:00pm | TCS 358 | Checkpoint | Teams report progress, obstacles and outlines workflow they are planning to use |
 | | 05:30pm | TCS 358, 310, 432, 410 | Working time | |
-| | 08:30pm | The Oaklander, 5130 Bigelow Blvd, Pittsburgh, PA 15213, United States | Dinner | e.g. share project ideas / progress between teams, short talks, ... |
+| | 08:30pm | The Oaklander, 5130 Bigelow Blvd, Pittsburgh, PA 15213, United States | Dinner | Share project progress and issues between teams |
 | May 22 | 08:00am | TCS 358 | Joint breakfast | |
 | | 09:00am | TCS 358 | Checkpoint | Teams report progress, obstacles and plans until the next checkpoint |
 | | 10:00am | TCS 358, 310, 432, 410 | Working time | |
@@ -32,7 +31,7 @@ All times are in Pittsburgh local time (Eastern Standard Time, EST)
 | | 03:00pm | TCS 358 | Game | |
 | | 03:30pm | TCS 358, 310, 432, 410 | Working time | |
 | | 07:00pm | TCS 358 | Final presentations | Teams present what they have done, which obstacles they faced and their future plans |
-| | 07:45pm | TCS 358 | Closing session | Additional features for WoC <br/> Survey <br/> Reminder to put code up on GitHub (https://github.com/woc-hack) <br/> Submission deadline and system for 2-pager |
+| | 07:45pm | TCS 358 | Closing session | Brainstorm features for WoC <br/> Survey |
 
 ## Hackathon Organizer Contacts
 * Audris Mockus (audris@utk.edu)
