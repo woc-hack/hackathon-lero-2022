@@ -17,4 +17,4 @@ The data is stored within a MongoDB server, thus queries may take time to retrie
 ### Restrictions
 This sampling resource has some restrictions to what is possible. For more information on restrictions to the timeframe/language/file information see the above paper. 
 
-![Image of Yaktocat](https://github.com/woc-hack/hackathon-pittsburgh-2022/Sampling Resource.png)
+![Image of Yaktocat](https://github.com/woc-hack/hackathon-pittsburgh-2022/Sampling%20Resource.png)
