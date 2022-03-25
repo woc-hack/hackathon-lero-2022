@@ -70,5 +70,5 @@ In a nutshell: economy class for flights, conus rates, no alcohol, minimize expe
 
 Kelley, Melanie <mkelle16@utk.edu> will be handling travel expenses
 
-[Travel Policies](https://liveutk.sharepoint.com/sites/engineering/eecs/portal/Shared%20Documents/Travel%20Policies%20and%20Procedures.docx)
+See [page 33 of travel poolicy](https://universitytennessee.policytech.com/dotNet/documents/?docid=779&public=true)
 
