@@ -68,8 +68,7 @@ Look for Squirell Hill, Shadyside locations
 
 In a nutshell: economy class for flights, conus rates, no alcohol, minimize expenses
 
+Kelley, Melanie <mkelle16@utk.edu> will be handling travel expenses
+
 [Travel Policies](https://liveutk.sharepoint.com/sites/engineering/eecs/portal/Shared%20Documents/Travel%20Policies%20and%20Procedures.docx)
 
-[Travel Policies -- more](https://universitytennessee.policytech.com/dotNet/documents/?docid=566&public=true)
-
-Kelley, Melanie <mkelle16@utk.edu> will be handling travel expenses
