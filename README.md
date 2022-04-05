@@ -11,7 +11,7 @@ All times are in Pittsburgh local time (Eastern Standard Time, EST)
 
 | Date | Time | Location | Topic | Content |
 | --- | --- | --- | --- | --- |
-| April 22 | 09:00am | Zoom | Webinar | Tutorial <br/> Making sure that participants have access to WoC <br/> Invite participants to WoC GitHub <br/> Invite to Slack / Discord |
+| April 21 | 09:00am | [Zoom](https://tennessee.zoom.us/j/2766448345) | Webinar | Tutorial <br/> Making sure that participants have access to WoC <br/> Invite participants to WoC GitHub |
 | May 21 | 08:00am | TCS 358 | Joint breakfast |  |
 | | 09:00am | TCS 358 | Kick-off | Opening ceremony <br/> Schedule <br/> Logistics <br/> Getting to know each other (ice-breaker) |
 | | 09:45am | TCS 358 | Team formation | Participants present ideas they submitted during registration <br/> New ideas can be presented as well <br/> Each idea will be written down on brown paper that the idea champion can take with her/him |
