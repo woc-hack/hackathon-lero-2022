@@ -26,9 +26,9 @@ All times are in Pittsburgh local time (Eastern Standard Time, EST)
 | May 22 | 08:00am | TCS 358 | Joint breakfast | |
 | | 09:00am | TCS 358 | Checkpoint | Teams report progress, obstacles and plans until the next checkpoint |
 | | 10:00am | TCS 358, 310, 432, 410 | Working time | |
-| | 12:30pm | TCS 358 | Lunch | |
+| | 12:30pm | TCS 358 | Outside lunch / picnic | |
 | | 01:30pm | TCS 358, 310, 432, 410 | Working time | |
-| | 03:00pm | TCS 358 | Game | |
+| | 03:00pm | TCS 358 | Break | |
 | | 03:30pm | TCS 358, 310, 432, 410 | Working time | |
 | | 07:00pm | TCS 358 | Final presentations | Teams present what they have done, which obstacles they faced and their future plans |
 | | 07:45pm | TCS 358 | Closing session | Brainstorm features for WoC <br/> Survey |
