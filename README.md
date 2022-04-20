@@ -5,6 +5,7 @@
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-pittsburgh-2022/issues)
 - [CMU EDUROAM tutorial](https://www.cmu.edu/computing/services/endpoint/network-access/wireless/how-to/eduroam.html)
 - [Submitted ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md)
+- [Project report template](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/project_template.md)
 
 ## Hackathon Schedule
 All times are in Pittsburgh local time (Eastern Standard Time, EST)
