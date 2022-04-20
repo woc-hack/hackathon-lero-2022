@@ -20,18 +20,18 @@ All times are in Pittsburgh local time (Eastern Standard Time, EST)
 | | 11:15am | TCS 358, 310, 432, 410 | Working time | |
 | | 12:30pm | TCS 358 | Lunch | |
 | | 01:30pm | TCS 358, 310, 432, 410 | Working time | |
-| | 05:00pm | TCS 358 | Checkpoint | Teams report progress, obstacles and outlines workflow they are planning to use |
+| | 05:00pm | TCS 358 | Checkpoint | Teams report progress, obstacles and outline workflow they are planning to use |
 | | 05:30pm | TCS 358, 310, 432, 410 | Working time | |
-| | 08:30pm | The Oaklander, 5130 Bigelow Blvd, Pittsburgh, PA 15213, United States | Dinner | Share project progress and issues between teams |
+| | 07:30pm | The Oaklander, 5130 Bigelow Blvd, Pittsburgh, PA 15213, United States | Dinner | Share project progress and issues between teams |
 | May 22 | 08:00am | TCS 358 | Joint breakfast | |
-| | 09:00am | TCS 358 | Checkpoint | Teams report progress, obstacles and plans until the next checkpoint |
+| | 09:00am | TCS 358 | Checkpoint | Teams report progress, obstacles and plans until the final presentation |
 | | 10:00am | TCS 358, 310, 432, 410 | Working time | |
 | | 12:30pm | TCS 358 | Outside lunch / picnic | |
 | | 01:30pm | TCS 358, 310, 432, 410 | Working time | |
 | | 03:00pm | TCS 358 | Break | |
 | | 03:30pm | TCS 358, 310, 432, 410 | Working time | |
 | | 07:00pm | TCS 358 | Final presentations | Teams present what they have done, which obstacles they faced and their future plans |
-| | 07:45pm | TCS 358 | Closing session | Brainstorm features for WoC <br/> Survey |
+| | 07:45pm | TCS 358 | Closing session | Wrapup <br/> Survey |
 
 ## Hackathon Organizer Contacts
 * Audris Mockus (audris@utk.edu)
