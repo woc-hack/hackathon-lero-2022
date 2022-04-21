@@ -18,7 +18,10 @@ Please provide an overview of your research approach and workflow, including how
 ### 3. Preliminary Findings
 Please describe your preliminary findings here.
 
-### 4. Future Work
+### 4. Challenges
+Please describe difficulties you encountered during the project related to World of Code. If possible, please also make suggestions on how you think they could be solved.
+
+### 5. Future Work
 Please add a description of your planned future work here. This can include a target outlet.
 
 ### References
