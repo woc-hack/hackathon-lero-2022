@@ -4,7 +4,7 @@
 - [Hackathon Discord server](https://discord.gg/22mSc842Wb)
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-pittsburgh-2022/issues)
 - [CMU EDUROAM tutorial](https://www.cmu.edu/computing/services/endpoint/network-access/wireless/how-to/eduroam.html)
-- [Submitted ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md)
+- [Submitted ideas](https://github.com/woc-hack/msr-hackathon/blob/master/ideas.md), [Prior hackathon projects](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/prior_projects.md)
 - [Project report template](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/project_template.md)
 - Location: [TCS Hall, 4665 Forbes Ave, Pittsburgh, PA 15213, United States](https://goo.gl/maps/KhCkd8JmjbwhDzVu8) - Room 358
 
