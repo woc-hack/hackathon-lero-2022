@@ -24,7 +24,7 @@ All times are in Pittsburgh local time (Eastern Standard Time, EST)
 | | 01:30pm | TCS 358, 310, 432, 410 | Working time | |
 | | 05:00pm | TCS 358 | Checkpoint | Teams report progress, obstacles and outline workflow they are planning to use |
 | | 05:30pm | TCS 358, 310, 432, 410 | Working time | |
-| | 07:30pm | The Oaklander, 5130 Bigelow Blvd, Pittsburgh, PA 15213, United States | Dinner | Share project progress and issues between teams |
+| | 07:30pm | [The Oaklander](https://g.page/theoaklanderhotel?share), 5130 Bigelow Blvd, Pittsburgh, PA 15213, United States | Dinner | Share project progress and issues between teams |
 | May 22 | 08:00am | TCS 358 | Joint breakfast | |
 | | 09:00am | TCS 358 | Checkpoint | Teams report progress, obstacles and plans until the final presentation |
 | | 10:00am | TCS 358, 310, 432, 410 | Working time | |
