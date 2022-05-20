@@ -33,7 +33,7 @@ All times are in Pittsburgh local time (Eastern Standard Time, EST)
 | | 03:00pm | TCS 358 | Break | |
 | | 03:30pm | TCS 358, 310, 432, 410 | Working time | |
 | | 07:00pm | TCS 358 | Final presentations | Teams present what they have done, which obstacles they faced and their future plans |
-| | 07:45pm | TCS 358 | Closing session | Wrapup <br/> Survey |
+| | 07:45pm | TCS 358 | Closing session | Wrapup <br/> [Survey](https://forms.gle/PqGc7opznFgMjyHM7) |
 
 ## Hackathon Organizer Contacts
 * Audris Mockus (audris@utk.edu)
