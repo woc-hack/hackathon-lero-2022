@@ -1,3 +1,9 @@
+## Projects
+- [Sensor Usage Patterns in IOT (SUPI)](https://github.com/woc-hack/supi)
+- [Blue Flamingo](https://github.com/woc-hack/blue-flamingo)
+- [6 Degrees of Hackers](https://github.com/woc-hack/6-degrees-of-hackers)
+- [KJD](https://github.com/woc-hack/kjd)
+
 ## Useful links
 
 - [Venue, travel, reimbursement](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/venue.md)
