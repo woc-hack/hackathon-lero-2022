@@ -9,6 +9,8 @@ TCS building, please use [Zoom](https://tennessee.zoom.us/j/2766448345) and Disc
 - [Blue Flamingo](https://github.com/woc-hack/blue-flamingo)
 - [6 Degrees of Hackers](https://github.com/woc-hack/6-degrees-of-hackers)
 - [KJD](https://github.com/woc-hack/kjd)
+- [indoss-contributors](https://github.com/woc-hack/indoss-contributors)
+
 
 ## Useful links
 
