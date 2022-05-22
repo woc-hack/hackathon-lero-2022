@@ -1,7 +1,7 @@
 ## ***Urgent Update***
 Due to the potential exposure to COVID (one hackathon participant tested positive after dinner) 
-the second day will be conducted remotely. Please follow the same schedule but use instead of going to 
-TCS building please use [Zoom](https://tennessee.zoom.us/j/2766448345) and Discord as noted below.
+the second day will be conducted remotely. Please follow the same schedule but, instead of going to 
+TCS building, please use [Zoom](https://tennessee.zoom.us/j/2766448345) and Discord as noted below.
 
 
 ## Projects
