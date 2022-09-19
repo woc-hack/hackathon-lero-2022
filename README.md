@@ -12,7 +12,6 @@
 - Location: 
 
 ## Hackathon Schedule
-All times are in Pittsburgh local time (Eastern Standard Time, EST)
 
 | Date | Time | Location | Topic | Content |
 
