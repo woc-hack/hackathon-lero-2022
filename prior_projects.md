@@ -15,3 +15,13 @@
 - Hemlock - Tracing known vulnerabilities ([Github repo](https://github.com/woc-hack/hemlock/wiki), [Paper](https://zenodo.org/record/4627776#.YnYXkRNBzjB))
 - Inflection points - Studying changepoints in open source software evolution ([Github repo](https://github.com/woc-hack/inflection-points), [Paper](https://arxiv.org/abs/2103.11013))
 - TrackHack - Tracing hackathon code ([Github repo](https://github.com/woc-hack/track_hack), [Paper](https://arxiv.org/abs/2103.01145))
+
+
+
+## Pittsburgh 2022 (May 21-22, 2022)
+- [Sensor Usage Patterns in IOT (SUPI)](https://github.com/woc-hack/supi)
+- [Blue Flamingo](https://github.com/woc-hack/blue-flamingo)
+- [6 Degrees of Hackers](https://github.com/woc-hack/6-degrees-of-hackers)
+- [KJD](https://github.com/woc-hack/kjd)
+- [indoss-contributors](https://github.com/woc-hack/indoss-contributors)
+
