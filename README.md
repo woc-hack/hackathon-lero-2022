@@ -9,22 +9,37 @@
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-lero-2022/issues)
 - [Prior hackathon projects](https://github.com/woc-hack/hackathon-lero-2022/blob/main/prior_projects.md)
 - [Project report template](https://github.com/woc-hack/hackathon-lero-2022/blob/main/project_template.md)
-- Location: 
+- Location: Tierney Building, University of Limerick, Sreelane, Limerick, V94 NYD3, <https://goo.gl/maps/pyPCEUsyka8Lv9yv5>
 
 ## Hackathon Schedule
 
-| Date | Time | Location | Topic | Content |
+### Friday
+
+- 16:00 - Start of event for those who can be there, presentation, issue resolution 
+- 17:00 - There will be a photo-op - Brian wants some photos of the event so a photographer will arrive.
+- 17:15 - Start of coding activity 
+- 19:30 - Dinner - pizza will be delivered + checkpoint presentation
+- 21:00 - leave for the night, participants encouraged to work on the project at their place of stay
+
+### Saturday 
+- 9:00 - Start of the day, participants will have breakfast provided for them at their place of stay
+- 12:00 - checkpoint presentation 
+- 12:30 - lunch - will be delivered 
+- 17:00 - final presentations
+- 17:50 - prize distribution ( we got some Logitech gaming mice)
+- 18:00 - wrap up 
 
 
 ## Hackathon Organizer Contacts
-* Audris Mockus (audris@utk.edu)
 * Tapajit Dey (tapajit.dey@lero.ie)
+* Audris Mockus (audris@utk.edu)
 
 ## References
 
 - [Github hackathon central](https://github.com/woc-hack)
 - [WoC main page](https://worldofcode.org/)
-- [WoC Tutorial](https://github.com/woc-hack/tutorial/blob/master/README.md)
+- [WoC Tutorial](https://docs.google.com/presentation/d/1dVHn1wu6QNKUGtmbu91dAdD0MZLEEtUh9RjMuruirSY/edit?usp=sharing)
+- [WoC Extended Tutorial](https://github.com/woc-hack/tutorial/blob/master/README.md)
 - [WoC API](https://bitbucket.org/swsc/lookup/src/master/README.md)
 - [CVE Dataset Notebook](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/CVEJupyter.ipynb)
 - [REST Notebook](https://github.com/woc-hack/hackathon-pittsburgh-2022/blob/main/RESTJupyter.ipynb)
