@@ -14,8 +14,7 @@
 ### Friday
 
 - 16:00 - Start of event for those who can be there, presentation, issue resolution 
-- 17:00 - There will be a photo-op - Brian wants some photos of the event so a photographer will arrive.
-- 17:15 - Start of coding activity 
+- 17:00 - Start of coding activity 
 - 19:30 - Dinner - pizza will be delivered + checkpoint presentation
 - 21:00 - leave for the night, participants encouraged to work on the project at their place of stay
 
@@ -24,7 +23,7 @@
 - 12:00 - checkpoint presentation 
 - 12:30 - lunch - will be delivered 
 - 17:00 - final presentations
-- 17:50 - prize distribution ( we got some Logitech gaming mice)
+- 17:50 - prize distribution 
 - 18:00 - wrap up 
 
 
