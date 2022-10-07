@@ -7,7 +7,7 @@
 - [Hackathon Discord server](https://discord.gg/22mSc842Wb)
 - [Hackathon issue tracker](https://github.com/woc-hack/hackathon-lero-2022/issues)
 - [Prior hackathon projects](https://github.com/woc-hack/hackathon-lero-2022/blob/main/prior_projects.md)
-- Location: Tierney Building, University of Limerick, Sreelane, Limerick, V94 NYD3, <https://goo.gl/maps/pyPCEUsyka8Lv9yv5>
+- Location: Room no. T3-013, Tierney Building, University of Limerick, Sreelane, Limerick, V94 NYD3, <https://goo.gl/maps/pyPCEUsyka8Lv9yv5>
 
 ## Hackathon Schedule
 
