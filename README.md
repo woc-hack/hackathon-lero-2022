@@ -1,3 +1,5 @@
+## [Press Release](https://www.limerickpost.ie/2022/10/09/limerick-hosts-world-of-code-hackathon-challenge/)
+
 ## Projects
 
 
