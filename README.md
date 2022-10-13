@@ -1,7 +1,10 @@
 ## [Press Release](https://www.limerickpost.ie/2022/10/09/limerick-hosts-world-of-code-hackathon-challenge/)
 
 ## Projects
-
+- [Super Team](https://github.com/woc-hack/super_team) - Differences of activites of night owls & others pre and post COVID
+- [MYSTerious](https://github.com/woc-hack/MYSTerious) - Identify female developers and their interests in terms of projects or programing languages
+- [dopamine](https://github.com/woc-hack/dopamine) - Effect of Hacktoberfest on attracting newcomers to OSS
+- [Vulcan](https://github.com/woc-hack/Vulcan) - Name-based gender identification
 
 
 ## Useful links
